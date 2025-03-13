@@ -1,0 +1,10 @@
+# Ignorar archivos temporales de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar notebooks ejecutados
+.ipynb_checkpoints/
+
+# Ignorar el dataset si es muy grande
+/data/*
